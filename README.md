@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **pbalasimon/pbalasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![background](https://user-images.githubusercontent.com/23562247/110933647-53f0f780-832d-11eb-8944-a8abca3e8c71.png)
