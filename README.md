@@ -4,3 +4,20 @@
 </p>
 
 <p align="center">Soy <strong>Desarrollador FullStack Web Developer</strong> con más 10 años experiencia.</p>
+
+## About me...
+```js
+const pbalasimon = {
+  name: 'Pedro Bala Simón',
+  profile: 'FullStack Web Developer',
+  stack: {
+    frontend: ['HTML5', 'CSS3', 'JavaScript'],
+    backend: ['NodeJS', 'Java'],
+  },
+  contact: {
+    linkedin: 'https://www.linkedin.com/in/pbalasimon/',
+    github: 'https://github.com/pbalasimon',
+  },
+};
+```
+---
