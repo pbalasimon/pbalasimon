@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👏🏻! Soy Pedro 🧑🏼‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador FullStack Web Developer</strong> con más 10 años experiencia.</p>
+<p align="center">Soy <strong>Desarrollador FullStack Developer</strong> con más 10 años experiencia.</p>
 
 ## About me...
 ```js
